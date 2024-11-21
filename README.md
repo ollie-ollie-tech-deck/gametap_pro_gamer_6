@@ -1,4 +1,4 @@
-# GameTap-Pro-Gamer-6
+# GameTap Pro Gamer 6
 
 The source code to GameTap Pro Gamer 6, a Sonic hack dedicated to Clownancy, as an ode to old ROM hacks and pop culture in the 2000s. 
 
