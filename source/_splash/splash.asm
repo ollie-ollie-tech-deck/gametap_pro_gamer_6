@@ -19,8 +19,6 @@ SplashScreens:
 		moveq	#$FFFFFF86,d7
 		bsr.s	@DoSplash
 		
-		move	#$2700,sr
-		jsr	VDPSetupGame
 		move.b	#4,$FFFFF600.w
 		rts
 
