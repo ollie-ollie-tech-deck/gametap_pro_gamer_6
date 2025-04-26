@@ -1,6 +1,6 @@
 @echo off
-if not exist build mkdir build
+if not exist out mkdir out
 cd src
-..\bin\asm68k /k /p /o ae- sonic.asm, ../build/gametap.gen, , ../build/sonic.lst
-..\bin\fixheadr ../build/gametap.gen
+..\bin\asm68k /k /p /o ae- sonic.asm, ../out/gametap.gen, , ../out/sonic.lst
+..\bin\fixheadr ../out/gametap.gen
 pause

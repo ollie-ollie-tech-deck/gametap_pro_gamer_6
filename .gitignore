@@ -1,6 +1,6 @@
-source/SonED2 Projects/temp.dat
-source/SonED2 v1.0x Projects/temp.dat
-source/SonLVL INI Files/dllcache
-source/SonLVL INI Files/SonLVL.log
-build/
+src/SonED2 Projects/temp.dat
+src/SonED2 v1.0x Projects/temp.dat
+src/SonLVL INI Files/dllcache
+src/SonLVL INI Files/SonLVL.log
+out/
 *.lst
